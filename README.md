@@ -20,7 +20,7 @@ http://kliment.kapsi.fi/printrun/
 
 To access the mesh you saved above, add the following to your start G-code after heating the bed: 
 
-G28 
-G29 L1 ; Load mesh 1
-G29 A ; activate UBL
-G29 J ; do a 3 point leveling.
+G28  
+G29 L1 ; Load mesh 1   
+G29 A ; activate UBL   
+G29 J ; do a 3 point leveling.   
