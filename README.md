@@ -3,6 +3,10 @@
 
 This firmware uses Unified Bed Leveling - So simply sending the printer G29 will not level the bed. To calibrate UBL, please follow the steps below: 
 
+NOTE: To do this, you must have your printer connected to your computer. To connect your printer and send it commands, please download and install the latest version of pronterface from here: 
+
+http://kliment.kapsi.fi/printrun/
+
 ## UBL Calibration Process
 
 1) Heat bed to desired temperature
